@@ -1,0 +1,2 @@
+!function(){"use strict";var e={83300:function(e,t){var r=function(){if("undefined"!=typeof self)return self;if("undefined"!=typeof window)return window;if(void 0!==r)return r;throw new Error("unable to locate global object")}();e.exports=t=r.fetch,r.fetch&&(t.default=r.fetch.bind(r)),t.Headers=r.Headers,t.Request=r.Request,t.Response=r.Response}},t={};!function r(n){var o=t[n];if(void 0!==o)return o.exports;var f=t[n]={exports:{}};return e[n](f,f.exports,r),f.exports}(83300)}();
+//# sourceMappingURL=fetch.js.map
